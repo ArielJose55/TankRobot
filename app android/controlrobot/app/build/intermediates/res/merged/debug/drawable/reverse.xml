@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/move_reverse"/>
+    <item android:drawable="@drawable/move_reverse_pressed"
+        android:state_pressed="true"/>
+</selector><!-- From: file:/C:/Users/Ariel%20Arnedo/Dropbox/Proyectos/programacion/Proyectos%20Android/Android%20Studio/ControlRobot/app/src/main/res/drawable/reverse.xml -->

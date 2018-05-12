@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Control Robot</string>
+    <string name="action_settings">Enlazar Modulo</string>
+    <string name="action_check">Verificar conexion</string>
+</resources>
