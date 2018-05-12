@@ -1,0 +1,1 @@
+Proyecto que consiste en un robot tipo tanque oruga controlado desde una app android, por medio que interfaz Bluetooth del smartphone y un modulo bluetooth HC-06 que envía los datos por un puerto serial a arduino, este los procesa y gestiona el movimiento del tanque.
